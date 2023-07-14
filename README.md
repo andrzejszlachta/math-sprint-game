@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/math-sprint-game/
 
 ## Overview
 
-description
+Check your math skill right now!
 
 ### Built With
 
@@ -19,7 +19,8 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. Play Math Sprint Game
+2. Best scores stored in localStorage
 
 ## Contact
 
@@ -27,5 +28,3 @@ andrzej.szlachta@mail.com
 https://andrzejszlachta.github.io/  
 
 ## Acknowledgements
-
-acknowledgments
